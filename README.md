@@ -1,1 +1,9 @@
 # MatrixMeanToolbox
+
+TestSPDMean
+TestSPDMeanL1
+TestSPDMeanLinfty
+
+TestSPDMeanLDOneParam
+TestSPDMeanLDOneParamL1
+TestSPDMeanLDOneParamLinfty
