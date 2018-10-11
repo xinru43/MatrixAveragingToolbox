@@ -1,9 +1,52 @@
 # MatrixMeanToolbox
 
-# TestSPDMean
-TestSPDMeanL1
-TestSPDMeanLinfty
+# Matrix mean
+
+TestSPDMean
+
+TestSPDMeanRSD
+
+TestSPDEucMean
 
 TestSPDMeanLDOneParam
+
+TestSPDDLOneParamFP
+
+TestSPDMeanSymmLDOneParam
+
+
+
+
+# Matrix median
+
+TestSPDMeanL1
+
+TestSPDMeanL1EW
+
 TestSPDMeanLDOneParamL1
+
+TestSPDMeanSymmLDOneParamL1
+
+TestSPDMeanLDOneParamL1EW
+
+
+
+
+# Matrix minimax center
+
+TestSPDMeanLinfty
+
+TestsPDMeanLinftyAN
+
 TestSPDMeanLDOneParamLinfty
+
+TestSPDMeanLDOneParamLinftyAN
+
+TestSPDMeanSymmLDOneParamLinfty
+
+
+
+
+
+mean_closed
+spddistance
