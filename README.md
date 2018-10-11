@@ -1,6 +1,6 @@
 # MatrixMeanToolbox
 
-TestSPDMean
+# TestSPDMean
 TestSPDMeanL1
 TestSPDMeanLinfty
 
