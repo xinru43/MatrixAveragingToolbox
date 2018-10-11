@@ -25,9 +25,9 @@ TestSPDMeanL1EW
 
 TestSPDMeanLDOneParamL1
 
-TestSPDMeanSymmLDOneParamL1
-
 TestSPDMeanLDOneParamL1EW
+
+TestSPDMeanSymmLDOneParamL1
 
 
 
@@ -46,7 +46,8 @@ TestSPDMeanSymmLDOneParamLinfty
 
 
 
-
+# Others
 
 mean_closed
+
 spddistance
