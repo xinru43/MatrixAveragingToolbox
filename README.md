@@ -1,7 +1,8 @@
 # Introduction
+This toolbox is used to average a collection of symmetric positive definite matrices. It computes matrix means, medians, and minimax centers using various Riemannian optimization methods. 
 
-
-
+# Compiling in MATLAB
+To co
 
 
 
