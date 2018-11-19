@@ -2,47 +2,47 @@
 
 # Matrix mean
 
-TestSPDMean
+TestSPDMean *
 
 TestSPDMeanRSD
 
-TestSPDEucMean
+TestSPDEucMean *
 
-TestSPDMeanLDOneParam
+TestSPDMeanLDOneParam *
 
-TestSPDDLOneParamFP
+TestSPDDLOneParamFP *
 
-TestSPDMeanSymmLDOneParam
+TestSPDMeanSymmLDOneParam *
 
 
 
 
 # Matrix median
 
-TestSPDMeanL1
+TestSPDMeanL1 *
 
-TestSPDMeanL1EW
+TestSPDMeanL1EW *
 
-TestSPDMeanLDOneParamL1
+TestSPDMeanLDOneParamL1 *
 
-TestSPDMeanLDOneParamL1EW
+TestSPDMeanLDOneParamL1EW *
 
-TestSPDMeanSymmLDOneParamL1
+TestSPDMeanSymmLDOneParamL1 *
 
 
 
 
 # Matrix minimax center
 
-TestSPDMeanLinfty
+TestSPDMeanLinfty *
 
-TestsPDMeanLinftyAN
+TestsPDMeanLinftyAN *
 
-TestSPDMeanLDOneParamLinfty
+TestSPDMeanLDOneParamLinfty *
 
-TestSPDMeanLDOneParamLinftyAN
+TestSPDMeanLDOneParamLinftyAN *
 
-TestSPDMeanSymmLDOneParamLinfty
+TestSPDMeanSymmLDOneParamLinfty *
 
 
 
